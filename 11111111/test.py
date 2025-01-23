@@ -28,8 +28,8 @@
 #New Age: 26
 #is_student: True
 
-name = 'Sergey'
-age = 53
+name = 'Sanek'
+age = 23
 Add_Age = 1
 is_student = True
 
